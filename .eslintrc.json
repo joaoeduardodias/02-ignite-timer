@@ -1,10 +1,4 @@
 {
-  "extends": [
-    "@rocketseat/eslint-config/react",
-    "prettier"
-  ],
-  "plugins": [
-    "prettier"
-  ]
-
+  "extends": ["@rocketseat/eslint-config/react", "prettier"],
+  "plugins": ["prettier"]
 }
